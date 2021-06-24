@@ -1,0 +1,24 @@
+<annotation>
+	<filename>54-photo.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>240</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>24</ymin>
+			<xmax>240</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>

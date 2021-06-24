@@ -1,0 +1,24 @@
+<annotation>
+	<filename>maksssksksss550.png</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>51</ymin>
+			<xmax>234</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+</annotation>

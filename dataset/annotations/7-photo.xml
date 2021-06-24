@@ -1,0 +1,24 @@
+<annotation>
+	<filename>7-photo.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>240</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>36</ymin>
+			<xmax>169</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+</annotation>
