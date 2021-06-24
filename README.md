@@ -30,12 +30,19 @@ $ pip install -r requirements.txt
 $ kflash -p /dev/ttyUSB0 -b 1500000 maixpy_k210_minimum_v0.6.2_mask.kfpkg
 ~~~
 
-#### 5.- Introducir sd con el archivo app.py en la raiz
+#### 5.- copiar en la sd el archivo app.py en la raiz
 
 ***
 
 
 ### Manual de compilación del firmware en Fedora
+***
+~~~
+POR ESCRIBIR
+~~~
+
+***
+### Manual de entrenar nuestra red en Fedora
 ***
 ~~~
 POR ESCRIBIR
